@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Veeam_Window_Monitoring/1.0.0": {
+        "runtime": {
+          "Veeam_Window_Monitoring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Veeam_Window_Monitoring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
